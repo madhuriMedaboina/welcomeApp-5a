@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #1e293b;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.heading {
+  font-family: 'Bree Serif';
+  font-weight: 800;
+  color: #f0bb03;
+  font-size: 50px;
+}
+
+.para {
+  font-family: 'Bree Serif';
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.button {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-weight: 300;
+  background-color: #ffffff;
+  border-width: 0px;
+  padding: 6px;
+  border-radius: 8px;
+  height: 36px;
+  width: 120px;
+}
